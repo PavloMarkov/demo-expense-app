@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/demo-expense-app/static/css/main.93b8babe.css",
-    "main.js": "/demo-expense-app/static/js/main.029f7216.js",
+    "main.css": "/demo-expense-app/static/css/main.6cbd923d.css",
+    "main.js": "/demo-expense-app/static/js/main.32a6d294.js",
     "static/js/787.658e14e2.chunk.js": "/demo-expense-app/static/js/787.658e14e2.chunk.js",
     "static/media/Vector_footer.svg": "/demo-expense-app/static/media/Vector_footer.2190fce3f913b7fa95af.svg",
     "static/media/Decor.svg": "/demo-expense-app/static/media/Decor.36e5d30d22006497661e.svg",
     "index.html": "/demo-expense-app/index.html",
     "static/media/Vector.svg": "/demo-expense-app/static/media/Vector.370f7faaf4ffebda625b.svg",
     "static/media/Vector1.svg": "/demo-expense-app/static/media/Vector1.dc2e2a88766ffaaf5eaf.svg",
-    "main.93b8babe.css.map": "/demo-expense-app/static/css/main.93b8babe.css.map",
-    "main.029f7216.js.map": "/demo-expense-app/static/js/main.029f7216.js.map",
+    "main.6cbd923d.css.map": "/demo-expense-app/static/css/main.6cbd923d.css.map",
+    "main.32a6d294.js.map": "/demo-expense-app/static/js/main.32a6d294.js.map",
     "787.658e14e2.chunk.js.map": "/demo-expense-app/static/js/787.658e14e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b8babe.css",
-    "static/js/main.029f7216.js"
+    "static/css/main.6cbd923d.css",
+    "static/js/main.32a6d294.js"
   ]
 }
